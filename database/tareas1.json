@@ -1,0 +1,42 @@
+[
+    {
+        "titulo": "estudiar",
+        "estado": "Terminada"
+    },
+    {
+        "titulo": "trabajar",
+        "estado": "Pendiente"
+    },
+    {
+        "titulo": "cocinar",
+        "estado": "En proceso"
+    },
+    {
+        "titulo": "dormir",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "leer",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "comer",
+        "estado": "progreso"
+    },
+    {
+        "titulo": "descansar",
+        "estado": "progreso"
+    },
+    {
+        "titulo": "codigo",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "lavar",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "comer",
+        "estado": "pendiente"
+    }
+]
